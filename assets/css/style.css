@@ -1,0 +1,12 @@
+
+
+
+
+.logo {
+    background: url("../images/CoCmainimage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1080px;
+    
+}
