@@ -39,7 +39,7 @@ its members thus increasing the speed to which they could upgrade there building
     <li>As a clan leader - I want the ability to buy "gems" in the in-game shop to divide out amongst the members 
     who have donated.</li></ul> 
 
-[text](https://link) to the wireframes
+[wireframes](file:///C:/Users/simon/Documents/New%20Project%201.pdf)
 
 <h4>Features</h4>
 
