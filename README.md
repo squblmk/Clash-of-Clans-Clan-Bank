@@ -181,13 +181,17 @@ how many missed attacks that player has had since joining - to help the clan lea
 forward in important battles and encourage and support those that are lagging behind or costting the clan
 important victories</p>
 
-<h4>Technologies Used</h4>
 
-<ul><li>Html5 - project requirement</li>
-    <li>CSS3 - project requirement</li>
-    <li>Bootstrap - helps with the building of the project</li>
-    <li>Font-Awesome -  helps with the writing style of the project</li>
-</ul>
+## **Technology Used**: 
+---
+  ### Languages: 
+  - Html5 - project requirement.
+  - CSS3 - project requirement.
+
+  ### Tools and Libraries:
+   + Bootstrap - helps with the building of the project
+   + Font-Awesome -  helps with the writing style of the project.
+
 
 <h4>Testing</h4>
 
