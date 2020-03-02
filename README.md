@@ -1,4 +1,12 @@
-<h1>Clash of Clan's - Clan Bank</h1>
+# Clash of Clan's - Clan Bank Readme.
+
+Thank you for visiting my project , please feel free to read through the read-me and browse my project , if you have any
+questions or suggestions , please dont ask as i have no idea how to contact you :smile: .
+Live long and Clash on ....
+
+
+
+    
 
 <p>Hello and Welcome to My First Mile Stone Project undertaken with the Code Institute.</p>
    
