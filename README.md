@@ -104,7 +104,7 @@ amount of money if they where to buy on there own.</p>
 * For it to be visually appealing.
 * For donations and refunds to be preformed correctly and without any negative user experience.
 
-### **Design Choice**
+### **Design Choice**:
 ---
   <p>The theme of this project is gaming and banking, thereforemy design choices have been heavily influenced by the actual games colours 
   and style. Using the developers tools on the fan based website for Clash of Clans, has helped and guided my choices to find similar 
@@ -193,7 +193,13 @@ important victories</p>
    + Font-Awesome -  helps with the writing style of the project.
 
 
-<h4>Testing</h4>
+## **Testing**: 
+---
+ <p>As this is my first ever coding project in the brand new world of coding and everything that it can offer, the first mile stone project
+  with the Code Institute - my testing was often and very often :grinning:. I made sure i scrutinized every line of code to make sure that it      
+  worked as it should. The fact that it is my first project ever in the coding world , ment that i also needed testing after it aswell :ambulance:</p>
+
+  
 
 
 
