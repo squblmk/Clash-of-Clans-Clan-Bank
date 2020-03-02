@@ -251,7 +251,8 @@ to be included ...
 
 
 
-<h5>Acknowledgements</h5>
-        <p>I would like to thank my mentor - Simen Dehlin, for the brainstroming seasion that helped point
-        myself in the direction with the idea for this project and his continuous help throughout, many thanks 
-        to his guidance and envious knowledge that he so freely gives.</p>
+## **Acknowledgements**:
+---
+<p>I would like to thank my mentor - Simen Dehlin, for the brainstroming seasion that helped point
+   myself in the direction with the idea for this project and his continuous help throughout, many thanks 
+   to his guidance and envious knowledge that he so freely gives.</p>
