@@ -28,15 +28,13 @@ Live long and Clash on ....
  * Credits
  * Acknowledgements
 
-
-    
-
-<p>Hello and Welcome to My First Mile Stone Project undertaken with the Code Institute.</p>
+## UX (User Experience)
+ ### Project Goals
+          Hello and Welcome to My First Mile Stone Project undertaken with the Code Institute.
+   <p>This project is based on a concept idea of mine to further enhance the playing experience of people who enjoy and 
+   partake in the mobile game called Clash of Clans.</p>
    
-<p>This project is based on a concept idea of mine to further enhance the playing experience of people who enjoy and 
-par-take in the mobile game called Clash of Clans.</p>
-   
-<p>Clash of Clans who are unfamilar with it, is a single player based strategy video game that lets user's build up
+<p>Clash of Clans who are unfamilar with it, is a single player based strategy mobile game that lets user's build up
 there village with different building types which can be upgraded themselves over time after reaching certain levels. 
 This increases a players strength to defend themselves against other player attacks and also to go out and attack 
 other players if they desire.</p> 
@@ -49,7 +47,10 @@ out others who my need assistance with strategy for attacks or help build better
 <p> It is here, in the clan, that my concept idea would come into its own - A Clash of Clan - Clan Bank.
 This idea would benefit the menbesrs of a clan by further enhancing the helpability of its members to each other.
 Players donating funds to the clan bank , would give the over-all clan the ability to "spread the wealth" to all
-its members thus increasing the speed to which they could upgrade there buildings , heroes , spells etc etc.</p>
+its members thus increasing the speed to which they could upgrade there buildings , heroes , spells etc etc.
+This is a real world scenario where if a clan member buys him or herself a set value of gems , the clan , if it bought a
+higher amount of gems at a higher cost , could divide up to all that contributed to that cost , and receive far more in return for the same 
+amount of money if they where to buy on there own.</p>
 
 <h4>UX.</h4>
 
