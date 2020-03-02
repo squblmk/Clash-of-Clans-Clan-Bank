@@ -147,14 +147,19 @@ amount of money if they where to buy on there own.</p>
     them for.</p>
 
 
+## **Wireframes**: :hash:
+---
+<p>I built the wireframes for this project using balsamiq. I built separate wireframes for all three possible viewing devices - Desktop | 
+Tablet | Mobile on balsamiq which if you follow the link below can be viewed:</p>
 
+[View My Wireframes HERE](link to wireframes)
 
 
 
 
         
 
-[wireframes](file:///C:/Users/simon/Documents/New%20Project%201.pdf)
+
 
 <h4>Features</h4>
 
