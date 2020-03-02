@@ -229,14 +229,27 @@ important victories</p>
 
 
 
-Deployment
+## **Deployment**:
+---
+
+ <p>Clash of Clans Clan Bank project was developed on gitpod using git and github to host the repositories.
+ When deploying Clash of Clans Clan Bank using github pages, the following steps were taken -</p>
+
+to be included .....
+
+##### Running Clash of Clans locally 
+
+to be included .....
 
 
-<h4>Credits</h4>
+## **Credits**: 
+---
 
-<h5>Content</h5>
+to be included ...
 
-<h5>Media</h5>
+
+
+
 
 <h5>Acknowledgements</h5>
         <p>I would like to thank my mentor - Simen Dehlin, for the brainstroming seasion that helped point
