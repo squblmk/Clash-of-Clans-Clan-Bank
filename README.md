@@ -126,7 +126,20 @@ amount of money if they where to buy on there own.</p>
 
   * Seconadary colours would be .....
 
+#### Styling:
+   <p>Styling is there or thereabouts with supercells themes and visual repersentation of there ideas.
+   But again this has been followed to the best of my current ability.</p>
 
+   ##### Example:
+   + Primary colour - #4ecdc4
+   + etc..
+   + etc...
+
+
+   ##### Default-Styling:
+   + Default-text-shadow - 1px 1px #000;
+   + etc..
+   + etc...
 
 
 
