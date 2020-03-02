@@ -211,11 +211,25 @@ important victories</p>
   + test story 3
   + test story 4
 
-  
+ 
+ 
+ ## **Bugs**: :bug:
+ ---
+ ##### Bugs during development
+   + (prob will have a few here to add in)
+   + etc..
+   + etc...
+
+   Bug-
+   fix-
+   verdict-
+
+ ##### Known Bugs
+   list any here that are know and possible fixes to them.  
 
 
 
-<h4>Deployment</h4>
+Deployment
 
 
 <h4>Credits</h4>
