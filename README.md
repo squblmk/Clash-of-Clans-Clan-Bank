@@ -1,17 +1,17 @@
-# Clash of Clan's - Clan Bank Readme.
+# **Clash of Clan's - Clan Bank Readme**.
 
 Thank you for visiting my project , please feel free to read through the read-me and browse my project , if you have any
 questions or suggestions , please dont ask as i have no idea how to contact you :grinning:.
 Live long and Clash on ....
 
-## Content:
+## **Content**:
 
  * UX
     * Project Concept 
     * Users Goals
     * Users Stories
     * Sites Owners Goals
-    * User Requirments and Expectations
+    * User Requirements and Expectations
     * Design Choice
         * Fonts
         * Icons
@@ -29,7 +29,7 @@ Live long and Clash on ....
  * Acknowledgements
 
 ## UX (User Experience)
- ### Project Goals:
+ ### **Project Goals**:
  ---
           Hello and Welcome to My First Mile Stone Project undertaken with the Code Institute.
    <p>This project is based on a concept idea of mine to further enhance the playing experience of people who enjoy and 
@@ -53,7 +53,7 @@ This is a real world scenario where if a clan member buys him or herself a set v
 higher amount of gems at a higher cost , could divide up to all that contributed to that cost , and receive far more in return for the same 
 amount of money if they where to buy on there own.</p>
 
- ### User Stories:
+ ### **User Stories**:
  ---
    <p>So my website is for all the members of their own associated clan.
  This will give them the ability to see the Clan's Bank page, incorrperating the balance , statement , and 
@@ -72,13 +72,32 @@ amount of money if they where to buy on there own.</p>
     <li>As a clan leader - I want the ability to buy "gems" in the in-game shop to divide out amongst the members 
     who have donated.</li></ul> 
 
-  ### Sites Owners Goals:
+  ### **Sites Owners Goals**:
 ---
-  <p>This is quite simple-</p> 
- <ul><li>Create a function that simulates more revenue</li>
-     <li>Increase functions in the game to make it more indepth and therefore a more enjoyable playing experience</li>
-     <li>Create something that is both functionable and practical for the player</li>
-     <li>Create something that is easy to use</li>
+  <p>This is quite simple -</p> 
+ <ul><li>Create a function that simulates more revenue.</li>
+     <li>Increase functions in the game to make it more indepth and therefore a more enjoyable playing experience.</li>
+     <li>Create something that is both functionable and practical for the player.</li>
+     <li>Create something that is easy to use.</li>
+ </ul>
+
+ ### **User Requirements and Expectations**:
+ ---
+ #### Requirements:
+
+* To enter the site with a user name and password (as this is beyond my capabilities for the moment, pressing
+        enter will only be required for now.)
+* To be able to visually capture an up-to-date balance of the clan banks treasures.
+* Read and digest easily the information to hand.
+* Send money to the clan bank if compelled to do so.
+* Request money back if there has been a mistake in the donation or a mistake has a risen.
+* To log out when finished.
+
+
+
+
+
+
         
 
 [wireframes](file:///C:/Users/simon/Documents/New%20Project%201.pdf)
