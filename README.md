@@ -199,10 +199,19 @@ important victories</p>
   with the Code Institute - my testing was often and very often :grinning:. I made sure i scrutinized every line of code to make sure that it      
   worked as it should. The fact that it is my first project ever in the coding world , ment that i also needed testing after it aswell :ambulance:</p>
 
- ### Test Planning
+ #### Test Planning
   <p>The test planning started with the building of building of the wireframes. This gave an excellent grounding to showcase what was needed to 
   implement a correct start in building the site. From the readme file to the writing on the code , the preview screen and open browser was always open to see
-  the updated code in action, and the developers tools where also open to locate and clarify areas affected.  </p> 
+  the updated code in action, and the developers tools where also open to locate and clarify areas affected.</p>
+
+ #### Testing Stories
+
+  + test story 1
+  + test story 2
+  + test story 3
+  + test story 4
+
+  
 
 
 
