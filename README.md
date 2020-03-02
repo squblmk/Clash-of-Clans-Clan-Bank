@@ -156,16 +156,15 @@ Tablet | Mobile on balsamiq which if you follow the link below can be viewed:</p
 
 
 
+## **Features** 
+---
+   - Scrolling pages.
+   - Links to several different pages.
+   - Pop up modals to show extra features.
 
-        
 
 
 
-<h4>Features</h4>
-
-<ul><li>
-
-</li></ul>
 
 reference : project files that give example of these implementations
 
