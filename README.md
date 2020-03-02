@@ -4,7 +4,20 @@ Thank you for visiting my project , please feel free to read through the read-me
 questions or suggestions , please dont ask as i have no idea how to contact you :smile: .
 Live long and Clash on ....
 
+## Content:
 
+ * UX
+    * Project Concept 
+    * User's Goal's
+    * User's Storie's
+    * Sites Owner's Goal's
+    * User Requirment's and Expectation's
+    * Design Choice
+        * Font's
+        * Icon's
+        * colour's
+        * Styling
+        * Background
 
     
 
