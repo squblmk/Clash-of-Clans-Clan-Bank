@@ -141,6 +141,14 @@ amount of money if they where to buy on there own.</p>
    + etc..
    + etc...
 
+#### Background:
+   <p>For the Background, i used images on all the pages including the log in , main bank page, donate and refund pages, the modals and
+    the log out page. These where sourced at .... and i mite have needed to re - size to fit correctly into the screen sizes i am using 
+    them for.</p>
+
+
+
+
 
 
 
