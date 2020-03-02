@@ -118,6 +118,16 @@ amount of money if they where to buy on there own.</p>
  <p>The icons used are to help the user to visually see and pick up easily what is being said without it being said. They are an added 
  feature that stimulates a visual reference for the user to break up the text.</p>
 
+#### Colour:
+  <p>Again the colours used would heavily follow what supercell are using so if i cannot repliate that i will use something
+  that is very close or similar to it.</p>
+
+  * Primary colours: would be ....
+
+  * Seconadary colours would be .....
+
+
+
 
 
 
