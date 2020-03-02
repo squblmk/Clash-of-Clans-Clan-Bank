@@ -1,17 +1,17 @@
 # Clash of Clan's - Clan Bank Readme.
 
 Thank you for visiting my project , please feel free to read through the read-me and browse my project , if you have any
-questions or suggestions , please dont ask as i have no idea how to contact you :smile: .
+questions or suggestions , please dont ask as i have no idea how to contact you :grinning:.
 Live long and Clash on ....
 
 ## Content:
 
  * UX
     * Project Concept 
-    * User's Goals
-    * User's Stories
-    * Sites Owner's Goals
-    * User Requirment's and Expectations
+    * Users Goals
+    * Users Stories
+    * Sites Owners Goals
+    * User Requirments and Expectations
     * Design Choice
         * Fonts
         * Icons
@@ -29,7 +29,8 @@ Live long and Clash on ....
  * Acknowledgements
 
 ## UX (User Experience)
- ### Project Goals
+ ### Project Goals:
+ ---
           Hello and Welcome to My First Mile Stone Project undertaken with the Code Institute.
    <p>This project is based on a concept idea of mine to further enhance the playing experience of people who enjoy and 
    partake in the mobile game called Clash of Clans.</p>
@@ -52,9 +53,9 @@ This is a real world scenario where if a clan member buys him or herself a set v
 higher amount of gems at a higher cost , could divide up to all that contributed to that cost , and receive far more in return for the same 
 amount of money if they where to buy on there own.</p>
 
-<h4>UX.</h4>
-
- <p>So my website is for all the members of their own associated clan.
+ ### User Stories:
+ ---
+   <p>So my website is for all the members of their own associated clan.
  This will give them the ability to see the Clan's Bank page, incorrperating the balance , statement , and 
  abaility to donate and request refunds from it.
  As there is no such ability in the game to do this , this is as i said, a concept idea that would enhance a
@@ -70,6 +71,15 @@ amount of money if they where to buy on there own.</p>
     <li>As a clan member - I want the ability to request a refund from the clan bank.</li>
     <li>As a clan leader - I want the ability to buy "gems" in the in-game shop to divide out amongst the members 
     who have donated.</li></ul> 
+
+  ### Sites Owners Goals:
+---
+  <p>This is quite simple-</p> 
+ <ul><li>Create a function that simulates more revenue</li>
+     <li>Increase functions in the game to make it more indepth and therefore a more enjoyable playing experience</li>
+     <li>Create something that is both functionable and practical for the player</li>
+     <li>Create something that is easy to use</li>
+        
 
 [wireframes](file:///C:/Users/simon/Documents/New%20Project%201.pdf)
 
