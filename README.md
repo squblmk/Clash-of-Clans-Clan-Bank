@@ -163,10 +163,7 @@ Tablet | Mobile on balsamiq which if you follow the link below can be viewed:</p
    - Pop up modals to show extra features.
 
 
-
-
-
-reference : project files that give example of these implementations
+### Possible Further Features:
 
 <p>Further additional features that could come about from this are more and more benefits from the relationship
 between the bank and the shop. If and when the game creators add more and more userabilities to the shop the
@@ -174,15 +171,15 @@ bank will come into its own to fund these clan based features. Further cheaper g
 clan members to donate more to the bank ,thus increasig revenue for the game creators. Ideas like clan packs rather
 then just player targeted gem packs could become a feature of the future in the shop.</p>
 
-<h5>Features Left to Implement</h5>
+##### Features Left to Implement
 
-<ul><p>Another feature idea conceived before the clash of clan-clan bank idea , was the clash of clan battle records
+<p>Another feature idea conceived before the clash of clan-clan bank idea , was the clash of clan battle records
 where the clan members but primarily the clan leaders could use more indepth statistics to visually see who 
 is in the clan, proforming the best over the history of the clan and clan wars. This record would incorpurate
 records on % of destruction , no of stars achieved per battle and total stars for the clan since joining
 how many missed attacks that player has had since joining - to help the clan leaders put there best players 
 forward in important battles and encourage and support those that are lagging behind or costting the clan
-important victories</p></ul>
+important victories</p>
 
 <h4>Technologies Used</h4>
 
