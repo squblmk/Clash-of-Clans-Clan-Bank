@@ -104,6 +104,19 @@ amount of money if they where to buy on there own.</p>
 * For it to be visually appealing.
 * For donations and refunds to be preformed correctly and without any negative user experience.
 
+### **Design Choice**
+---
+  <p>The theme of this project is gaming and banking, thereforemy design choices have been heavily influenced by the actual games colours 
+  and style. Using the developers tools on the fan based website for Clash of Clans, has helped and guided my choices to find similar 
+  colours and schemes when creating this site.</p>
+
+#### Fonts:
+ <p>The fonts used by Supercell (who are the company that built and manage Clash of Clans) is.......
+ so i choose to use ...... which is very close to this.</p>
+
+#### Icons:
+ <p>The icons used are to help the user to visually see and pick up easily what is being said without it being said. They are an added 
+ feature that stimulates a visual reference for the user to break up the text.</p>
 
 
 
