@@ -8,16 +8,26 @@ Live long and Clash on ....
 
  * UX
     * Project Concept 
-    * User's Goal's
-    * User's Storie's
-    * Sites Owner's Goal's
-    * User Requirment's and Expectation's
+    * User's Goals
+    * User's Stories
+    * Sites Owner's Goals
+    * User Requirment's and Expectations
     * Design Choice
-        * Font's
-        * Icon's
-        * colour's
+        * Fonts
+        * Icons
+        * colours
         * Styling
         * Background
+ 
+ * Wireframes :hash:
+ * Features
+ * Technology Used
+ * Testing
+ * Bugs :bugs:
+ * Deployment
+ * Credits
+ * Acknowledgements
+
 
     
 
