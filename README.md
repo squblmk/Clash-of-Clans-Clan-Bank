@@ -93,6 +93,16 @@ amount of money if they where to buy on there own.</p>
 * Request money back if there has been a mistake in the donation or a mistake has a risen.
 * To log out when finished.
 
+#### Expectations:
+
+* To be able to log in successfully.
+* After logging in , to be taken to the main page.
+* Information to be displayed in a way that is informative and easy to read.
+* User experience is easy and uncomplicated to preform.
+* Functionality is clean and quick in its operation.
+* To follow in the games style and UX.
+* For it to be visually appealing.
+* For donations and refunds to be preformed correctly and without any negative user experience.
 
 
 
