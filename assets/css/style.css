@@ -1,36 +1,14 @@
-.logo {
-    background: url("../images/main.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 1080px;
+.img {
+   height: 600px;
+   width: 100%;
+   background: url("../images/main.jpg") no-repeat center center;
 }
 
-.logo1 {
-    background: url("../images/bank.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 1080px;
-}
 
-.circle-container {
-    width: 300px;
-    height: 320px;
-    padding: 30px;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 50%;
-    background-color: #e70d0d
-    
-}
 
-.circle-cover-bg {
-    background: url("../images/shield.jpg")no-repeat center center;
-    background-color: #2ef114;
-    height: 100%;
-    border-radius: 50%;
-}
+
+
+
 
 
 
