@@ -4,6 +4,27 @@
    background: url("../images/main.jpg") no-repeat center center;
 }
 
+.circle-container {
+    height: 400px;
+    width: 700px;
+    padding: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    background-color: rgba(240, 160, 13, 0.404);
+    position: center;
+    margin: 50px;
+    right: 50px;
+}
+
+.col-6 {
+    padding-left: 130px;
+    padding-top: 100px;
+    position: auto;
+}
+footer {
+    background-color:orange; 
+}
+
 
 
 
