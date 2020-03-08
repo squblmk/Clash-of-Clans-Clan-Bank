@@ -10,6 +10,12 @@
    background: url("../images/bank.png") no-repeat center center;
 }
 
+.img-donate {
+    height: 750px;
+    width: 100%;
+    background: url("../images/donate.jpg") no-repeat center center;
+}
+
 .circle-container {
     height: 400px;
     width: 700px;
