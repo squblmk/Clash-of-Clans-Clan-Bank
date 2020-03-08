@@ -35,7 +35,7 @@ footer {
 .clan-figure {
     height: 100px;
     padding: 150px;
-
+    
 }
 
 .table {
@@ -53,6 +53,16 @@ footer {
 
 .btn-leave {
     margin-left: 1100px;
+}
+
+.clan-balance {
+    background-color: red;
+    font-size: 30px;
+}
+
+.clan-balance2 {
+    background-color: red;
+    font-size: 30px;
 }
 
 
