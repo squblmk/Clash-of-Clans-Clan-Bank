@@ -1,11 +1,11 @@
 #img-main {
    background: url("../images/main.jpg") no-repeat center center;
+   background-size: cover;
 }
 
-.img-bank {
-   height: 600px;
-   width: 100%;
+#img-bank {
    background: url("../images/bank.png") no-repeat center center;
+   background-size: cover;
 }
 
 .img-donate {
@@ -29,7 +29,7 @@
 
 .circle-container {
     height: 400px;
-    width: 700px;
+    width: 400px;
     padding: 1px;
     border-style: solid;
     border-radius: 50%;
@@ -39,12 +39,18 @@
     
 }
 
-
-.col-6 {
-    padding-left: 130px;
-    padding-top: 100px;
-    position: auto;
+.circle-container.col-6 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
 }
+
+
+
+
+
+
 footer {
     background-color:orange; 
 }
@@ -60,8 +66,21 @@ footer {
     margin-left: 80px;
 }
 
+.btn-enter {
+    
+    margin-top: 40px;
+    padding:12px;
+    margin-bottom: 20px;
+}
+
+.col {
+    margin-top: 20px;
+}
+
+
 .btn-donate {
     margin-left: 300px;
+    margin-top: 100px;
 }
 
 .btn-refund {
@@ -70,6 +89,7 @@ footer {
 
 .btn-leave {
     margin-left: 1100px;
+    margin-bottom: 50px;
 }
 
 .clan-balance {
