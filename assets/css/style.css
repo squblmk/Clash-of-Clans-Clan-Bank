@@ -1,6 +1,4 @@
-.img-main {
-   height: 600px;
-   width: 100%;
+#img-main {
    background: url("../images/main.jpg") no-repeat center center;
 }
 
@@ -99,6 +97,10 @@ footer {
     width: 500px;
     margin-top: 470px;
     margin-left: 320px;
+}
+
+.sign-out-msg {
+    
 }
 
 
