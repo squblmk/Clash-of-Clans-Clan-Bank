@@ -34,9 +34,9 @@
     border-style: solid;
     border-radius: 50%;
     background-color: rgba(240, 160, 13, 0.404);
-    position: center;
-    margin: 50px;
-    right: 50px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    
 }
 
 
