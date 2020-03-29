@@ -1,3 +1,7 @@
+body {
+    font-family: 'Acme', sans-serif;
+}
+
 #img-main {
    background: url("../images/main.jpg") no-repeat center center;
    background-size: cover;
@@ -8,22 +12,21 @@
    background-size: cover;
 }
 
-.img-donate {
-    height: 750px;
-    width: 100%;
+#img-donate {
     background: url("../images/donate.jpg") no-repeat center center;
+    background-size: cover;
 }
 
-.img-refund {
-    height: 750px;
-    width: 100%;
+#img-refund {
+    
     background: url("../images/refund.jpg") no-repeat center center;
+    background-size: cover;
 }
 
-.img-logout {
-    height: 750px;
-    width: 100%;
+#img-logout {
+    
     background: url("../images/logout.jpg") no-repeat center center;
+    background-size: cover;
 
 }    
 
@@ -81,15 +84,23 @@ footer {
 .btn-donate {
     margin-left: 300px;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .btn-refund {
     margin-left: 100px;
+    margin-bottom: 150px;
 }
 
 .btn-leave {
     margin-left: 1100px;
     margin-bottom: 50px;
+}
+
+.btn-logout {
+    margin-left: 500px;
+    margin-bottom: 150px;
+    margin-top: 510px;
 }
 
 .clan-balance {
@@ -104,13 +115,14 @@ footer {
 
 .input-group {
     width: 350px;
-    margin-left: 350px;
+    margin-left: 5px;
     margin-top: 350px; 
 }
 
 .btn-return-to-bank {
     margin-left: 1100px;
     margin-top: 120px;
+    margin-bottom: 50px;
 }
 
 .btn-block {
